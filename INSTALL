@@ -1,0 +1,9 @@
+Building Dougcoin
+
+See doc/readme-qt.rst for instructions on building Dougcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dougcoin.
+
+See doc/build-*.txt for instructions on building dougcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dougcoin.
